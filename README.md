@@ -3,7 +3,6 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<title>Eric Marques Bighi - Desenvolvedor .NET</title>
 </head>
 <body>
 
