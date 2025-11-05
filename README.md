@@ -48,7 +48,8 @@
 <div class="section">
   <h3>📈 Estatísticas do GitHub</h3>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Big2109&show_icons=true&theme=github_dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=Big2109&show_icons=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Big2109&theme=tokyonight"
   </div>
 </div>
 
